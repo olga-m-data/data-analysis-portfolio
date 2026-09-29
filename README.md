@@ -11,3 +11,5 @@ I'm currently learning data analysis with a focus on:
 - Data Visualization
 
 This repository contains my data analysis projects and learning progress.
+
+I'm building my first data analysis portfolio.
